@@ -1,0 +1,9 @@
+nltk
+gensim
+sklearn
+python-crfsuite
+nltk
+six
+sklearn-crfsuite
+tabulate
+tqdm
